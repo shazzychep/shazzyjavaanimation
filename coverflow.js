@@ -98,11 +98,14 @@ function coverflowimages(options) {
 
 ///////// Initialization code ////////////////
 
-images: [
-    ['image1.jpg', 'Best of Classical Songs (1900-1910)'],
-    ['image2.jpg', 'Hits from the 2000s'],
-    ['image3.jpg', 'Soulful Redeems and Blues (1950s-1960s)'],
-    ['image4.jpg', 'Rhythmic RnB and Classic Covers (1980s-1990s)'],
-    ['image1.jpg', 'Timeless Old Hits Since the 1800s'],
-    ['image2.jpg', 'Heartfelt Melodious Love Songs'],
-]
+coverflowimages({
+    coverid: 'coverflow1',
+    images: [
+        ['image1.jpg', 'Best of Classical Songs (1900-1910)'],
+        ['image2.jpg', 'Hits from the 2000s'],
+        ['image3.jpg', 'Soulful Redeems and Blues (1950s-1960s)'],
+        ['image4.jpg', 'Rhythmic RnB and Classic Covers (1980s-1990s)'],
+        ['image1.jpg', 'Timeless Old Hits Since the 1800s'],
+        ['image2.jpg', 'Heartfelt Melodious Love Songs'],
+    ]
+})
