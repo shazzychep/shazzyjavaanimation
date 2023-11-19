@@ -105,7 +105,7 @@ coverflowimages({
         ['image2.jpg', 'Hits from the 2000s'],
         ['image3.jpg', 'Soulful Redeems and Blues (1950s-1960s)'],
         ['image4.jpg', 'Rhythmic RnB and Classic Covers (1980s-1990s)'],
-        ['image1.jpg', 'Timeless Old Hits Since the 1800s'],
-        ['image2.jpg', 'Heartfelt Melodious Love Songs'],
+        ['image5.jpg', 'Timeless Old Hits Since the 1800s'],
+        ['image6.jpg', 'Heartfelt Melodious Love Songs'],
     ]
 })
